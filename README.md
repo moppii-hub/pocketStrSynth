@@ -7,6 +7,8 @@ Arduinoを使った小型のシンセサイザーです。
 音源部は[dspsynth.eu](https://web.archive.org/web/20180817050935/http://blog.dspsynth.eu/how-to-build-a-string-synth/)というサイトのソースコードを流用しています。  
 現在このWebサイトは閉鎖していますが、[Hackaday.com](https://hackaday.com/2016/02/23/a-slew-of-open-source-synthesizers/)に同じコードを用いて別の方が執筆した記事がありますので、よろしければそちらもご参考ください。  
   
+![Appearance](https://github.com/moppii-hub/pocketStrSynth/blob/master/others/appearance.jpg?raw=true)   
+
 
 # リポジトリの内容
 このリポジトリには以下の内容が含まれます。
@@ -32,8 +34,7 @@ Arduinoを使った小型のシンセサイザーです。
  - 電源スイッチON状態でUSBケーブルを接続すると、電池側またはUSB側に逆電圧が掛かります。
 
 
-# 写真
-![Appearance](https://github.com/moppii-hub/pocketStrSynth/blob/master/others/appearance.jpg?raw=true)   
+# その他写真
 ![howto](https://github.com/moppii-hub/pocketStrSynth/blob/master/others/how_to_use.jpg?raw=true)   
 ![inside](https://github.com/moppii-hub/pocketStrSynth/blob/master/others/inside.jpg?raw=true)   
 
