@@ -1,5 +1,5 @@
 # What's pocketStrSynth?
-The small-size synthesizer using an Arduino.
+This is a small-size synthesizer using an Arduino.
 The original idea is from [dspsynth.eu by Jan Ostman](https://web.archive.org/web/20180817050935/http://blog.dspsynth.eu/how-to-build-a-string-synth/).
 Now this website had already closed, but there is [the related article in Hackaday.com wrote by Elliot Williams](https://hackaday.com/2016/02/23/a-slew-of-open-source-synthesizers/), we can also refer this.  
   
